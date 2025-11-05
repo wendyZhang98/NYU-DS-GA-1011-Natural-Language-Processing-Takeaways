@@ -1,4 +1,4 @@
-# 🧠 NYU DS-GA-1011 — Natural Language Processing Takeaways
+# DS-GA-1011 — Natural Language Processing
 
 This repository contains **lecture summaries and notes** from *NYU DS-GA-1011: Natural Language Processing*, focusing on the theoretical foundations and modern techniques in NLP.
 
