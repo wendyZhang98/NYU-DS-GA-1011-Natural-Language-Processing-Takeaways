@@ -1,6 +1,7 @@
 # 🧠 NYU DS-GA-1011 — Natural Language Processing Takeaways
 
-This repository contains **lecture summaries and notes** from *NYU DS-GA-1011: Natural Language Processing*, focusing on the theoretical foundations and modern techniques in NLP.  
+This repository contains **lecture summaries and notes** from *NYU DS-GA-1011: Natural Language Processing*, focusing on the theoretical foundations and modern techniques in NLP.
+
 All notes in the **Lecture** folder were **written by Professor [Kyunghyun Cho](https://cds.nyu.edu/team/kyunghyun-cho-2/)**, and this repository serves as a structured collection of those materials for study and reference.
 
 ---
